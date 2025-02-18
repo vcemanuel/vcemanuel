@@ -2,6 +2,7 @@
 
 - 👨‍🎓 Estudando Sistemas de Informação
 - 🤖 Desenvolvimento de Software
+- 📊 Power BI
 
 ##
 
